@@ -17,7 +17,21 @@ run the pip to install the top also (It just taget for Window in main)
 <br><br><br>
 ==CAN IT WORK ON OSX OR LINUX==<br>
 It should be work but may be some of the API and patch you should be make it by your own<br>
-<br><br>
+<br><br><br>
+==PyInstaller Builder==<br>
+To build the code to EXE file from PyInstaller<br>
+you should have to install the pyinstaller from pip befor<br>
+----------------------------------------
+python3.8 -m pip install PyInstaller<br>
+----------------------------------------
+--build the exe--<br>
+(For Windows)<br>
+--------------------------------------------
+pyinstaller -wF -n DemoWebView .\run.py<br>
+--------------------------------------------
+The file will output to the 'dist' folder<br>
+The file should be bigger the 100M so I can't try to upload the demo EXE file you<br>
+If you have any problem try asking us in Issues<br>
 Open question<br>
 <br>
 I really want to make the webview just for pywebview<br>
