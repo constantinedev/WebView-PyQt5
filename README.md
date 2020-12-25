@@ -12,8 +12,8 @@ The run.py are just the Core WebView of the PyQt5 Updated FW <br>
 Even you can buid with you own with PyInstaller<br>
 <br><br><br>
 ==WHAT HAVE YOU SHOUD INSTALL==<br>
-python3 -m pip install PyQt5 PyQt5-tools PyQt5-dev PyInstaller
-run the pip to install the top also (It just taget for Window in main)
+<code>python3 -m pip install PyQt5 PyQt5-tools PyQt5-dev PyInstaller</code><br>
+run the pip to install the top also (It just taget for Window in main)<br>
 <br><br><br>
 ==CAN IT WORK ON OSX OR LINUX==<br>
 It should be work but may be some of the API and patch you should be make it by your own<br>
@@ -22,12 +22,12 @@ It should be work but may be some of the API and patch you should be make it by 
 To build the code to EXE file from PyInstaller<br>
 you should have to install the pyinstaller from pip befor<br>
 ----------------------------------------
-python3.8 -m pip install PyInstaller<br>
+<code>python3.8 -m pip install PyInstaller</code><br>
 ----------------------------------------
 --build the exe--<br>
 (For Windows)<br>
 --------------------------------------------
-pyinstaller -wF -n DemoWebView .\run.py<br>
+<code>pyinstaller -wF -n DemoWebView .\run.py</code><br>
 --------------------------------------------
 The file will output to the 'dist' folder<br>
 The file should be bigger the 100M so I can't try to upload the demo EXE file you<br>
