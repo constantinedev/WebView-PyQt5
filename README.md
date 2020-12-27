@@ -42,4 +42,6 @@ If you have and idea of make it on pywebview and work for after pyinstaller buil
 Let each other know! You are Welcome<br>
 <br>
 I have teset again with Raspberry Pi 3B+ and Pi4<br>
-it should revommand to run with the python3.6 version the 3.7+ are not support the qt5 better as well<br>
+it should recommand to run with the python3.6 version <br>
+the 3.7+ are not support the qt5 better as well<br>
+Only in Pi beta
