@@ -24,7 +24,7 @@ To build the code to EXE file from PyInstaller<br>
 ---------------------------------------------------------------------------------------------
 you should have to install the pyinstaller from pip befor<br>
 ----------------------------------------
-<code>python3.8 -m pip install PyInstaller</code><br>
+<code>python3 -m pip install PyInstaller</code><br>
 ----------------------------------------
 --build the exe--<br>
 (For Windows)<br>
