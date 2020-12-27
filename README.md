@@ -1,5 +1,5 @@
 # WebView-PyQt5<br>
----------------------------------------------------------------------------------------------------------<br>
+---------------------------------------------------------------------------------------------
 I have try to build a WebView Application using python<br>
 So What I have to try pywebview and PyQt5 are most popular of the network Framwork had to been used.<br>
 But I have try all the update with PyQt5 and pywebview buit to run on #Win10<br>
@@ -21,7 +21,7 @@ It should be work but may be some of the API and patch you should be make it by 
 <br><br><br>
 ==PyInstaller Builder==<br>
 To build the code to EXE file from PyInstaller<br>
----------------------------------------------------------------------------------------------------------<br>
+---------------------------------------------------------------------------------------------
 you should have to install the pyinstaller from pip befor<br>
 ----------------------------------------
 <code>python3.8 -m pip install PyInstaller</code><br>
