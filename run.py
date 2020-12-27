@@ -7,7 +7,7 @@ def browser():
         app = QApplication(sys.argv)
 
         mainWindow = QMainWindow()
-        mainWindow.setWindowTitle('SSMI .Inc')
+        mainWindow.setWindowTitle('WebView Browser')
         mainWindow.setMinimumSize(1200, 700)
         mainWindow.resize(1200, 800)
         widget = QWidget()
