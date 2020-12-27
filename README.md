@@ -12,7 +12,7 @@ The run.py are just the Core WebView of the PyQt5 Updated FW <br>
 Even you can buid with you own with PyInstaller<br>
 <br><br><br>
 ==WHAT HAVE YOU SHOUD INSTALL==<br>
-<code>python3 -m pip install PyQt5 PyQt5-tools PyQt5-dev PyInstaller</code><br>
+<code>python3 -m pip install PyQt5 PyQt5-tools pyqtwebengine PyInstaller</code><br>
 run the pip to install the top also (It just taget for Window in main)<br>
 <br><br><br>
 ==CAN IT WORK ON OSX OR LINUX==<br>
@@ -37,4 +37,7 @@ Open question<br>
 I really want to make the webview just for pywebview<br>
 But I don't know why what are the pyinstaller can't execute the view after build<br>
 If you have and idea of make it on pywebview and work for after pyinstaller builder<br>
-Let each other know! You are Welcome
+Let each other know! You are Welcome<br>
+<br>
+I have teset again with Raspberry Pi 3B+ and Pi4<br>
+it should revommand to run with the python3.6 version the 3.7+ are not support the qt5 better as well<br>
