@@ -13,7 +13,7 @@ def browser():
         widget = QWidget()
 
         web = QWebEngineView()
-        web.load(QUrl("https://mailman.ns01.info/dolibarr/"))
+        web.load(QUrl("https://duckduckgo.com/"))
         web.back
         web.forward
         web.reload
